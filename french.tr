@@ -1,0 +1,156 @@
+examples
+Exemples
+-----
+documentation
+Documentation
+-----
+modules
+Modules
+-----
+faq
+FAQ
+-----
+built_in_v
+Fait avec V
+-----
+the_v_lang
+Le langage de programmation V (vlang)
+-----
+v_slogan
+Langage simple, rapide, sûr et compilé pour le développement de logiciels maintenables
+-----
+includes_binaries 
+inclut des exécutables pour 3 systèmes
+-----
+install_source 
+Ou installer V à partir des sources
+-----
+couple_seconds 
+cela prendra quelques secondes
+-----
+wip_info
+V est un langage activement développé à un stade précoce.
+Les fonctionnalités qui sont toujours en développement sont marquées par $wip.
+<br> 
+Le reste de cette page et de la documentation a été implémenté et mis en libre accès.
+<p> 
+Au moment de la sortie de la V 1.0 prévue en décembre 2019, il n'y aura plus de $wip.
+-----
+forum
+Forum
+-----
+blog
+Blog 
+-----
+fast_compilation
+Compilation rapide
+-----
+safety
+Sécurité
+-----
+performance
+Performance
+-----
+simple_language_for_maintainable_programs
+Un langage simple pour construire des programmes maintenables 
+-----
+zero_deps 
+Un compilateur de 400 Kb avec zéro dépendance
+-----
+c_translation 
+Conversion C/C++
+-----
+introduction
+Introduction 
+-----
+comments
+Commentaires 
+-----
+functions
+Fonctions 
+-----
+variables
+Variables 
+-----
+basic_types 
+Types de base 
+-----
+strings
+Strings
+-----
+arrays
+Arrays 
+-----
+maps
+Maps 
+-----
+if
+If 
+-----
+in_op 
+In operator 
+-----
+for_loop 
+For loop 
+-----
+switch 
+Switch 
+-----
+structs 
+Structs 
+-----
+access_mod 
+Modificateurs d'accès
+-----
+methods
+méthodes
+-----
+pure_fns 
+Fonctions pures 
+-----
+high_fns 
+Fonctions d'ordre élevé
+-----
+constants 
+Constantes
+-----
+modules
+Modules
+-----
+interfaces
+Interfaces 
+-----
+enums
+Enums 
+-----
+optionals_and_errors 
+Types d'options et traitement des erreurs
+-----
+generics
+Génériques 
+-----
+concurrency
+Concurrency 
+-----
+decoding_json 
+Décodage du JSON 
+-----
+testing
+test 
+-----
+memory_management 
+Gestion de la mémoire
+-----
+fast_comp1
+V compile entre ≈100 000 et 1,2 million de lignes de code par seconde et par cœur de CPU.
+-----
+fast_comp2
+V se compile lui-même en 0,15 - 0,6 seconde.
+-----
+fast_comp3
+-----
+fast_comp4
+-----
+no_null
+No null value
+-----
